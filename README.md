@@ -10,7 +10,15 @@ is not suitable for any serious usage.
 + extracting text from wiki dump `wikiextractor data/raw/wiki/huwiki-20221120-pages-articles-multistream.xml.bz2 -o data/interim/huwiki`
 + Get sentences from wiki
 + Get sentences from Oscar
-
++ split sentences tokenized and pre-filtered texts
+  (200-500 lines per file is a good choice)
+```bash
+split -n 9063726/200 data/interim/slices/huwiki.txt data/interim/wiki_slices/huwiki_sliced
+```
+and
+```bash
+split -n 305479 data/interim/oscar.txt data/interim/oscar/oscar_split
+```
 ## LMs
 + Pointwise Mutual Information (PMI) Matrix
 + SVD PMI Matrix
