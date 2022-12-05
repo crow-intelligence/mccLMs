@@ -4,7 +4,9 @@ import os
 from nltk.tokenize import sent_tokenize, word_tokenize
 
 data_root = "data/raw/oscar19"
-text_files = [e for e in os.listdir(data_root) if os.path.isfile(os.path.join(data_root, e))]
+text_files = [
+    e for e in os.listdir(data_root) if os.path.isfile(os.path.join(data_root, e))
+]
 
 with open("data/interim/oscar.txt", "w") as outfile:
     for text_file in text_files:
