@@ -29,7 +29,11 @@ split -n 305479 data/interim/oscar.txt data/interim/oscar/oscar_split
 + floret (SpaCy & thinC)
 
 ### word2vec
-
+Modify corpus path and the path of model_save
+before running this script.
+```bash
+python src/train/train_w2v.py
+```
 ### floret
 ```bash
 ../../opt/floret/floret cbow -dim 300 -minn 3 -maxn 6 -mode floret -hashCount 4 -bucket 50000 -input data/interim/huwiki.txt -output models/floret/huwiki/huwiki_vectors
