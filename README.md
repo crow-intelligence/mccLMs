@@ -11,21 +11,21 @@ is not suitable for any serious usage.
 ## How to use Colab notebooks
 + open the Notebooks folder on GitHub
 + click on the notebook you'd like to run on Colab
-![gh](./imgs/Screenshot from 2022-12-07 10-16-11.png)
+![gh](https://github.com/crow-intelligence/mccLMs/blob/main/imgs/Screenshot%20from%202022-12-07%2010-11-27.png)
 + click on the Open in Colab badge
-![oic](imgs/Screenshot from 2022-12-07 10-19-44.png)
+![oic](https://github.com/crow-intelligence/mccLMs/blob/main/imgs/Screenshot from 2022-12-07 10-19-44.png)
 + the notebook is now available in Colab
-![nic](imgs/Screenshot from 2022-12-07 10-11-27.png)
+![nic](https://github.com/crow-intelligence/mccLMs/blob/main/imgs/Screenshot from 2022-12-07 10-11-27.png)
 + save the notebook into your own Colab folder on 
 Google Drive
-![stc](imgs/Screenshot from 2022-12-07 10-11-39.png)
-+ Copy [this](imgsScreenshot from 2022-12-07 10-19-44.png)
+![stc](https://github.com/crow-intelligence/mccLMs/blob/main/imgs/Screenshot from 2022-12-07 10-11-39.png)
++ Copy [this](https://drive.google.com/drive/folders/1-tPDfuPU7PvcEnaEv2U4X3giTRoyFnCy?usp=sharing)
 Google Drive folder to your own `Colab Notebooks` folder
 + run the first cell of your notebook on Colab
-![rcl](imgs/Screenshot from 2022-12-07 10-42-08.png)
+![rcl](https://github.com/crow-intelligence/mccLMs/blob/main/imgs/Screenshot from 2022-12-07 10-42-08.png)
 + allow it run, grant permissions to Colab,
 and you'll see sth like the following
-![run](imgs/Screenshot from 2022-12-07 10-43-56.png)
+![run](https://github.com/crow-intelligence/mccLMs/blob/main/imgs/Screenshot from 2022-12-07 10-43-56.png)
 ## Data sources
 + [Oscar 2019](https://oscar-project.org/post/oscar-2019/) - Hungarian subset
 + [Wikidumps](https://dumps.wikimedia.org/huwiki/20221120/) - huwiki-20221120-pages-articles-multistream.xml.bz2 dump
