@@ -58,6 +58,8 @@ before running this script.
 python src/train/train_w2v.py
 ```
 ### floret
+You have to put floret somewhere on your system,
+and you have to run `make` on it.
 ```bash
 ../../opt/floret/floret cbow -dim 300 -minn 3 -maxn 6 -mode floret -hashCount 4 -bucket 50000 -input data/interim/huwiki.txt -output models/floret/huwiki/huwiki_vectors
 ```
