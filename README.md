@@ -11,7 +11,7 @@ is not suitable for any serious usage.
 ## How to use Colab notebooks
 + open the Notebooks folder on GitHub
 + click on the notebook you'd like to run on Colab
-![gh](imgs/Screenshot from 2022-12-07 10-16-11.png)
+![gh](./imgs/Screenshot from 2022-12-07 10-16-11.png)
 + click on the Open in Colab badge
 ![oic](imgs/Screenshot from 2022-12-07 10-19-44.png)
 + the notebook is now available in Colab
