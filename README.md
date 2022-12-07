@@ -19,9 +19,13 @@ is not suitable for any serious usage.
 + save the notebook into your own Colab folder on 
 Google Drive
 ![stc](imgs/Screenshot from 2022-12-07 10-11-39.png)
-+ Copy [this](https://drive.google.com/drive/folders/1-tPDfuPU7PvcEnaEv2U4X3giTRoyFnCy?usp=sharing)
++ Copy [this](imgsScreenshot from 2022-12-07 10-19-44.png)
 Google Drive folder to your own `Colab Notebooks` folder
-
++ run the first cell of your notebook on Colab
+![rcl](imgs/Screenshot from 2022-12-07 10-42-08.png)
++ allow it run, grant permissions to Colab,
+and you'll see sth like the following
+![run](imgs/Screenshot from 2022-12-07 10-43-56.png)
 ## Data sources
 + [Oscar 2019](https://oscar-project.org/post/oscar-2019/) - Hungarian subset
 + [Wikidumps](https://dumps.wikimedia.org/huwiki/20221120/) - huwiki-20221120-pages-articles-multistream.xml.bz2 dump
